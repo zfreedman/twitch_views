@@ -10,4 +10,5 @@ A specific data entry will contain the following information:
 * Follower count
 * Total view count
 * Concurrent view count for this stream at this time
-Based on this, a streamer can have multiple entries. The goal in this design decision is to 1) gather more information for each game and 2) see the impact games have on concurrent viewer counts.
+
+Based on this, single streamers and categories can have multiple entries. The goal in this design decision is to 1) gather more information for each category and 2) see the impact variables like category, time, etc. have on concurrent view count.
