@@ -1,3 +1,7 @@
 # Datbase Information #
 #######################
 *.txt
+
+# Selenium WebDriver Logs #
+###########################
+*.log
